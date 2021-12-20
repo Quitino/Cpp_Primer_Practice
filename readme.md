@@ -2,7 +2,7 @@
 
 fork from [here](https://github.com/applenob/Cpp_Primer_Practice)
 
-added [gitbook for online reading]()
+added [gitbook for online reading](https://fb-941219.gitbook.io/cpp_primer_practice/)
 
 ## 简介
 
